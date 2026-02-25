@@ -4,4 +4,4 @@ This operating system is made with the python language. And is
 save as a windows batch file or .bat.
 
 To run TinyOS, open the command prompt and type "tinyos". Doing this will bring you
-to the operating system
+to the operating system. You can also run it by going to where the .bat file is and clicking it
