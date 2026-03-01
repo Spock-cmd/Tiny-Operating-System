@@ -1,3 +1,3 @@
 Anyone using this software has the rights to own a copy, modify it, and redistribue a
 modified copy of this software. No entity has the rights to distribue an identical copy
-of this software
+of this software. 
